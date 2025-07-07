@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* Page background */
+#container{
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(to right, #d4fc79, #96e6a1);  /* 🌿 Green gradient */
+    margin: 0;
+    padding: 0;
+    
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+
+	
+
+
+/* Form container with soft green tint */
+#whole {
+    background: rgba(255, 255, 255, 0.85); /* ⬜ Soft translucent white */
+    padding: 40px 30px;
+    border-radius: 16px;
+    box-shadow: 0 10px 25px rgba(0, 100, 0, 0.15);  /* Green-tinted shadow */
+    width: 90%;
+    max-width: 420px;
+    backdrop-filter: blur(3px); 
+    /* Subtle glass effect */
+    background:cover;
+    justify-content:center;
+}
+
+/* Heading */
+h1 {
+    text-align: center;
+    color: #2e7d32;  /* Forest green */
+    margin-bottom: 10px;
+    font-size: 28px;
+}
+
+h3 {
+    text-align: center;
+    color: #4e4e4e;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+
