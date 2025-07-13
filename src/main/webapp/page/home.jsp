@@ -15,6 +15,10 @@
 			<a href="delete"><button>Delete a Book</button></a>
 			<a href="sell"><button>Sell</button></a>
 			<a href="buy"><button>Buy</button></a>
+<<<<<<< HEAD
+=======
+			<a href="logout"><button>Logout</button></a>
+>>>>>>> e82a673 (database commit)
 			<br>
 			<br>
 		</nav>
